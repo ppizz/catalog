@@ -1,0 +1,6 @@
+# .gitignore evite de valider (commiter) les fichiers binaires
+# ignorer tous les fichiers .o .a et temporaires
+*.[oa]
+*~
+
+
